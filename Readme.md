@@ -31,7 +31,7 @@ Resposta: Sim , podemos prever a nota de um estudante na disciplina de ciências
    2. Utilizamos a **CLEAN MISSING DATA** e vamos limpar as colunas por inteiro da coluna  NU_NOTA_MT
    3. Utilizamos o **NORMALIZE DATA**.
    4. Enviamos o  **pipeline**.
-   5. Mensagem de sucesso.:next_track_button: :happy:
+   5. Mensagem de sucesso.:next_track_button: :happy
 
 3. Criação do pipeline de treinamento:arrow_down:
 
