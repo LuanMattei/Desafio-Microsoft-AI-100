@@ -6,7 +6,7 @@
 
 **Este foi um desafio proposto pelo grupo Anima, utilizando as funcionalidades de Machine Learning e Inteligência artificial com problemas reais para testar conhecimento.** :black_heart:
 
-## Exercício 1  Analise de dados do Enem de 2019. 
+## Exercício 1  Análise de dados do Enem de 2019. 
 
 ## É possível  prever a nota de ciências da natureza , caso se saiba a nota de Matemática?
 
